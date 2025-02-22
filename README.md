@@ -9,6 +9,7 @@ Página inicial da Netflix criada durante os #7DaysOfCode da plataforma Alura.
 
 
 🚀 Tecnologias
+
 🔹 HTML5 
 
 🔹 CSS 
